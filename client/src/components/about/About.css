@@ -1,0 +1,16 @@
+.pic {
+    float: left;
+    margin: 10px;
+}
+
+.about {
+    padding-top: 2%;
+    clear: both;
+    padding-bottom: 4%;
+}
+
+.texts {
+    font-weight: bolder;
+    margin-top: 2%;
+    line-height: 200%;
+}

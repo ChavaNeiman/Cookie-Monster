@@ -1,0 +1,9 @@
+.img:hover {
+    cursor: pointer;
+}
+
+.bottom {
+    font-size: 200%;
+    top: 9%;
+    left: 25%;
+}

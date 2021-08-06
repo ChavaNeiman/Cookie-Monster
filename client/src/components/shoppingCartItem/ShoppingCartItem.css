@@ -1,0 +1,46 @@
+.itemImage {
+    width: 5%;
+    height: 143px;
+}
+
+.cart {
+    margin-top: 4%;
+}
+
+.quantity {
+    width: 40%;
+    float: right;
+}
+
+.red {
+    color: red;
+}
+
+.red:hover {
+    color: red !important;
+    text-decoration-line: underline;
+}
+
+.show-view {
+    position: relative;
+    height: 144px;
+    width: 100%;
+}
+
+.view {
+    position: relative;
+    bottom: 55%;
+    color: black;
+    visibility: hidden;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.show-view:hover .view {
+    visibility: visible;
+}
+
+.show-view:hover {
+    filter: brightness(70%);
+    cursor: pointer;
+}

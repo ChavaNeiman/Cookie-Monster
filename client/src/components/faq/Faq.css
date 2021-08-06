@@ -1,0 +1,35 @@
+textarea#styled {
+	width: 600px;
+	height: 100px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+    margin-top: 2%;
+}
+
+.styles_faq-row-wrapper__3vA1D h2{
+    padding-left: 15em;
+}
+
+.styles_faq-row-wrapper__3vA1D .styles_row-body__1NvUo .styles_faq-row__2YF3c .styles_row-title__1YiiY .styles_row-title-text__1MuhU{
+    padding-left: 1em;
+}
+
+.floatright {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: #8f9aa1;
+    border-radius: 3px;
+    border: none;
+    width: 10%;
+    outline: none !important;
+}
+.floatright:hover{
+    background: #43c1f3 ;
+}
+.faq{
+    width:80% !important;
+}

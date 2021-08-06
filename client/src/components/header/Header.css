@@ -1,0 +1,73 @@
+.logo {
+    text-decoration: none;
+    margin-right: 3%;
+}
+
+.navbar {
+    border-bottom: 1px solid #8f9aa1;
+    background-image: url('../../assets/images/backgroundImage.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-nav>li {
+    float: left;
+    position: relative;
+}
+
+a#navbarDropdown.nav-link:hover, a#navbarDropdown.nav-link:focus {
+    border-bottom: 0 !important;
+}
+
+nav ul li a:hover, nav ul li a.active {
+    color: #676d72 !important;
+    border-bottom: 3px solid #b6c1cc;
+    bottom: -4px;
+    border-top: 0px solid white !important;
+    border-right: 0px solid white !important;
+    border-left: 0px solid white !important;
+}
+
+.signIn {
+    border: none;
+    background-color: Transparent;
+}
+
+.signIn:hover {
+    color: #43c1f3 !important;
+}
+
+.dropDown ::after {
+    display: none;
+}
+
+.nav-item:hover .dropdown-menu {
+    display: block!important
+}
+
+.userName {
+    float: left;
+    line-height: 10px;
+}
+
+.numOfItemsInCart {
+    min-width: 17px;
+    min-height: 17px;
+    background: #b6c1cc;
+    border-radius: 8.5px;
+    font-feature-settings: "lnum";
+    padding: 3px;
+    display: block;
+    position: absolute;
+    top: 17px;
+    right: -6px;
+    text-align: center;
+    color: black;
+    line-height: 95%;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.curr{
+    margin-left: 20%;
+}

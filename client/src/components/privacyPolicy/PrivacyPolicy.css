@@ -1,0 +1,11 @@
+.privacy {
+    width: 55%;
+    margin-top: 3%;
+    word-break: keep-all;
+    font-size: inherit;
+    text-align: left;
+}
+
+.header {
+    text-align: center;
+}

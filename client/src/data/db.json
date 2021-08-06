@@ -1,0 +1,875 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "Baby boy",
+      "image": "boy.jpg",
+      "price": "23.00",
+      "category": "Babies"
+    },
+    {
+      "id": 2,
+      "name": "Baby boy and girl",
+      "image": "boyGirl.jpg",
+      "price": "24.00",
+      "category": "Babies"
+    },
+    {
+      "id": 3,
+      "name": "Bumble bee",
+      "image": "bumbleBee.jpg",
+      "price": "24.00",
+      "category": "Others"
+    },
+    {
+      "id": 4,
+      "name": "Buses",
+      "image": "buses.jpg",
+      "price": "18.00",
+      "category": "Others"
+    },
+    {
+      "id": 5,
+      "name": "Its A Boy",
+      "image": "itsABoy.jpg",
+      "price": "21.00",
+      "category": "Babies"
+    },
+    {
+      "id": 6,
+      "name": "Sheep",
+      "image": "sheep.jpg",
+      "price": "12.50",
+      "category": "Others"
+    },
+    {
+      "id": 7,
+      "name": "Thing 1 and Thing 2",
+      "image": "thing1_thing2.jpg",
+      "price": "20.00",
+      "category": "Babies"
+    },
+    {
+      "id": 8,
+      "name": "Toes",
+      "image": "toes.jpg",
+      "price": "21.00",
+      "category": "Babies"
+    },
+    {
+      "id": 9,
+      "name": "Onsies",
+      "image": "onesies.jpg",
+      "price": "24.00",
+      "category": "Babies"
+    },
+    {
+      "id": 10,
+      "name": "Welcome Home",
+      "image": "welcome.jpg",
+      "price": "24.00",
+      "category": "Babies"
+    },
+    {
+      "id": 11,
+      "name": "1 Years Old Birthday",
+      "image": "1birthday.jpg",
+      "price": "15.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 12,
+      "name": "21 Years Old Birthday",
+      "image": "21b-day.jpg",
+      "price": "4.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 13,
+      "name": "60 Years Old Birthday",
+      "image": "60b-day.jpg",
+      "price": "42.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 14,
+      "name": "Happy Birthday",
+      "image": "b-day.jpg",
+      "price": "22.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 15,
+      "name": "9 Years Old Birthday",
+      "image": "9bday.jpg",
+      "price": "20.50",
+      "category": "Birthdays"
+    },
+    {
+      "id": 16,
+      "name": "60 Years Old Birthday",
+      "image": "60bday.jpg",
+      "price": "40.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 17,
+      "name": "Birthday",
+      "image": "birthday.jpg",
+      "price": "27.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 18,
+      "name": "10 Years Old Birthday",
+      "image": "birthday10.jpg",
+      "price": "23.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 19,
+      "name": "Birthday Girl",
+      "image": "birthdayGirl.jpg",
+      "price": "40.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 20,
+      "name": "Cupcakes",
+      "image": "cupcake.jpg",
+      "price": "28.00",
+      "category": "Birthdays"
+    },
+    {
+      "id": 21,
+      "name": "Ice Cream Cones",
+      "image": "iceCream.jpg",
+      "price": "35.00",
+      "category": "Others"
+    },
+    {
+      "id": 22,
+      "name": "Baby Girl",
+      "image": "girl.jpg",
+      "price": "22.00",
+      "category": "Babies"
+    },
+    {
+      "id": 23,
+      "name": "Present Box",
+      "image": "present.jpg",
+      "price": "18.00",
+      "category": "Presents"
+    },
+    {
+      "id": 24,
+      "name": "Snowman",
+      "image": "snowman.jpg",
+      "price": "24.00",
+      "category": "Others"
+    },
+    {
+      "id": 25,
+      "name": "Stars and Moon",
+      "image": "stars_moon.jpg",
+      "price": "15.00",
+      "category": "Others"
+    },
+    {
+      "id": 26,
+      "name": "Thank You",
+      "image": "thankYou.jpg",
+      "price": "25.00",
+      "category": "Presents"
+    },
+    {
+      "id": 27,
+      "name": "U.S.A",
+      "image": "usa.jpg",
+      "price": "30.50",
+      "category": "Others"
+    },
+    {
+      "id": 28,
+      "name": "Xbox Game Controller",
+      "image": "remoteControl.jpg",
+      "price": "20.50",
+      "category": "Others"
+    },
+    {
+      "id": 29,
+      "name": "Thank you",
+      "image": "thank_you.jpg",
+      "price": "5",
+      "category": "Presents"
+    },
+    {
+      "id": 30,
+      "name": "Family or Friends",
+      "image": "family.jpg",
+      "price": "5.50",
+      "category": "Others"
+    },
+    {
+      "id": 31,
+      "name": "Wedding",
+      "image": "wedding.jpg",
+      "price": "25.50",
+      "category": "Presents"
+    }
+  ],
+  "Videos": [
+    {
+      "id": 1,
+      "url": "http://youtube.com/watch?v=6x_x4Cm8RD8"
+    },
+    {
+      "id": 2,
+      "url": "http://youtube.com/watch?v=qp8hgkCFnq4"
+    },
+    {
+      "id": 3,
+      "url": "http://youtube.com/watch?v=kmwVoeW7ACo"
+    },
+    {
+      "id": 4,
+      "url": "http://youtube.com/watch?v=7n8HA2_rGCg"
+    },
+    {
+      "id": 5,
+      "url": "http://youtube.com/watch?v=2pGxb7B9MhA"
+    },
+    {
+      "id": 6,
+      "url": "http://youtube.com/watch?v=pJAFrsR8SQ4"
+    },
+    {
+      "id": 7,
+      "url": "http://youtube.com/watch?v=cqyHKZv9V8g"
+    },
+    {
+      "id": 8,
+      "url": "http://youtube.com/watch?v=iGtoQmHE7J4"
+    },
+    {
+      "id": 9,
+      "url": "http://youtube.com/watch?v=XN3ThdotUB4"
+    },
+    {
+      "id": 10,
+      "url": "http://youtube.com/watch?v=oChgffmFGhU"
+    },
+    {
+      "id": 11,
+      "url": "http://youtube.com/watch?v=lvakPumIpJ4"
+    },
+    {
+      "id": 12,
+      "url": "http://youtube.com/watch?v=SmeEDq1Ij7g"
+    },
+    {
+      "id": 13,
+      "url": "http://youtube.com/watch?v=UeLynEMWS8Y"
+    },
+    {
+      "id": 14,
+      "url": "http://youtube.com/watch?v=W0qvh5QUmZ0"
+    },
+    {
+      "id": 15,
+      "url": "http://youtube.com/watch?v=5jotGH5ZbWg"
+    },
+    {
+      "id": 16,
+      "url": "http://youtube.com/watch?v=UJH595FQ7F0"
+    },
+    {
+      "id": 17,
+      "url": "http://youtube.com/watch?v=5MaU5gy2s-w"
+    },
+    {
+      "id": 18,
+      "url": "http://youtube.com/watch?v=Q1ucpZ8ph4A"
+    },
+    {
+      "id": 19,
+      "url": "http://youtube.com/watch?v=UOGmTceMAs4"
+    },
+    {
+      "id": 20,
+      "url": "http://youtube.com/watch?v=SMxV2W5ruUY"
+    },
+    {
+      "id": 21,
+      "url": "http://youtube.com/watch?v=Lv_sYBwl_zk"
+    },
+    {
+      "id": 22,
+      "url": "http://youtube.com/watch?v=CdRjEU5HES8"
+    }
+  ],
+  "Countries": [
+    "Afghanistan",
+    "Åland Islands",
+    "Albania",
+    "Algeria",
+    "American Samoa",
+    "Andorra",
+    "Angola",
+    "Anguilla",
+    "Antarctica",
+    "Antigua and Barbuda",
+    "Argentina",
+    "Armenia",
+    "Aruba",
+    "Australia",
+    "Austria",
+    "Azerbaijan",
+    "Bahamas",
+    "Bahrain",
+    "Bangladesh",
+    "Barbados",
+    "Belarus",
+    "Belgium",
+    "Belize",
+    "Benin",
+    "Bermuda",
+    "Bhutan",
+    "Bolivia",
+    "Bosnia and Herzegovina",
+    "Botswana",
+    "Bouvet Island",
+    "Brazil",
+    "British Indian Ocean Territory",
+    "Brunei Darussalam",
+    "Bulgaria",
+    "Burkina Faso",
+    "Burundi",
+    "Cambodia",
+    "Cameroon",
+    "Canada",
+    "Cape Verde",
+    "Cayman Islands",
+    "Central African Republic",
+    "Chad",
+    "Chile",
+    "China",
+    "Christmas Island",
+    "Cocos (Keeling) Islands",
+    "Colombia",
+    "Comoros",
+    "Congo",
+    "Congo, The Democratic Republic of The",
+    "Cook Islands",
+    "Costa Rica",
+    "Cote D'ivoire",
+    "Croatia",
+    "Cuba",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Djibouti",
+    "Dominica",
+    "Dominican Republic",
+    "Ecuador",
+    "Egypt",
+    "El Salvador",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Estonia",
+    "Ethiopia",
+    "Falkland Islands (Malvinas)",
+    "Faroe Islands",
+    "Fiji",
+    "Finland",
+    "France",
+    "French Guiana",
+    "French Polynesia",
+    "French Southern Territories",
+    "Gabon",
+    "Gambia",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Gibraltar",
+    "Greece",
+    "Greenland",
+    "Grenada",
+    "Guadeloupe",
+    "Guam",
+    "Guatemala",
+    "Guernsey",
+    "Guinea",
+    "Guinea-bissau",
+    "Guyana",
+    "Haiti",
+    "Heard Island and Mcdonald Islands",
+    "Holy See (Vatican City State)",
+    "Honduras",
+    "Hong Kong",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iran, Islamic Republic of",
+    "Iraq",
+    "Ireland",
+    "Isle of Man",
+    "Israel",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Jersey",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kiribati",
+    "Korea, Democratic People's Republic of",
+    "Korea, Republic of",
+    "Kuwait",
+    "Kyrgyzstan",
+    "Lao People's Democratic Republic",
+    "Latvia",
+    "Lebanon",
+    "Lesotho",
+    "Liberia",
+    "Libyan Arab Jamahiriya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Macao",
+    "Macedonia, The Former Yugoslav Republic of",
+    "Madagascar",
+    "Malawi",
+    "Malaysia",
+    "Maldives",
+    "Mali",
+    "Malta",
+    "Marshall Islands",
+    "Martinique",
+    "Mauritania",
+    "Mauritius",
+    "Mayotte",
+    "Mexico",
+    "Micronesia, Federated States of",
+    "Moldova, Republic of",
+    "Monaco",
+    "Mongolia",
+    "Montenegro",
+    "Montserrat",
+    "Morocco",
+    "Mozambique",
+    "Myanmar",
+    "Namibia",
+    "Nauru",
+    "Nepal",
+    "Netherlands",
+    "Netherlands Antilles",
+    "New Caledonia",
+    "New Zealand",
+    "Nicaragua",
+    "Niger",
+    "Nigeria",
+    "Niue",
+    "Norfolk Island",
+    "Northern Mariana Islands",
+    "Norway",
+    "Oman",
+    "Pakistan",
+    "Palau",
+    "Palestinian Territory, Occupied",
+    "Panama",
+    "Papua New Guinea",
+    "Paraguay",
+    "Peru",
+    "Philippines",
+    "Pitcairn",
+    "Poland",
+    "Portugal",
+    "Puerto Rico",
+    "Qatar",
+    "Reunion",
+    "Romania",
+    "Russian Federation",
+    "Rwanda",
+    "Saint Helena",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Pierre and Miquelon",
+    "Saint Vincent and The Grenadines",
+    "Samoa",
+    "San Marino",
+    "Sao Tome and Principe",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia",
+    "Seychelles",
+    "Sierra Leone",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "Solomon Islands",
+    "Somalia",
+    "South Africa",
+    "South Georgia and The South Sandwich Islands",
+    "Spain",
+    "Sri Lanka",
+    "Sudan",
+    "Suriname",
+    "Svalbard and Jan Mayen",
+    "Swaziland",
+    "Sweden",
+    "Switzerland",
+    "Syrian Arab Republic",
+    "Taiwan (ROC)",
+    "Tajikistan",
+    "Tanzania, United Republic of",
+    "Thailand",
+    "Timor-leste",
+    "Togo",
+    "Tokelau",
+    "Tonga",
+    "Trinidad and Tobago",
+    "Tunisia",
+    "Turkey",
+    "Turkmenistan",
+    "Turks and Caicos Islands",
+    "Tuvalu",
+    "Uganda",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States",
+    "United States Minor Outlying Islands",
+    "Uruguay",
+    "Uzbekistan",
+    "Vanuatu",
+    "Venezuela",
+    "Vietnam",
+    "Virgin Islands, British",
+    "Virgin Islands, U.S.",
+    "Wallis and Futuna",
+    "Western Sahara",
+    "Yemen",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "Users": [
+    {
+      "name": "leah neiman",
+      "id": "770909349",
+      "email": "leahneiman@yahoo.com",
+      "password": "Travel11",
+      "confirmPassword": "Travel11",
+      "cart": {},
+      "PaymentShipping": {
+        "name": "hadassah neiman",
+        "shippingAddress": "1072 madison avenue",
+        "city": "lakewood",
+        "country": "United States",
+        "phoneNumber": "7323675544",
+        "cardNumber": "4111111111111111",
+        "expirationDate": "12/2023",
+        "securityNumber": "123",
+        "zipCode": "08701"
+      },
+      "orders": [
+        [
+          {
+            "id": 2,
+            "name": "Baby boy and girl",
+            "image": "boyGirl.jpg",
+            "price": "24.00",
+            "category": "Babies",
+            "quantity": 4
+          },
+          {
+            "id": 3,
+            "name": "Bumble bee",
+            "image": "bumbleBee.jpg",
+            "price": "24.00",
+            "category": "Others",
+            "quantity": 1
+          },
+          {
+            "shipping": 0
+          },
+          {
+            "total": 141
+          },
+          {
+            "date": "Sun Apr 18"
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Leah Neiman",
+      "id": "770808343",
+      "email": "leahneiman1@gmail.com",
+      "password": "Travel11",
+      "confirmPassword": "Travel11",
+      "cart": {
+        "2": 1,
+        "3": 6,
+        "7": 3
+      }
+    },
+    {
+      "name": "goldy",
+      "id": "212369060",
+      "email": "goldie9912@gmail.com",
+      "password": "1234Qwer",
+      "confirmPassword": "1234Qwer",
+      "cart": {
+        "2": 1,
+        "4": 0,
+        "6": 4
+      }
+    },
+    {
+      "name": "miri",
+      "id": "211951678",
+      "email": "miri.sh883@gmail.com",
+      "password": "123456Ms",
+      "confirmPassword": "123456Ms",
+      "cart": {
+        "2": 1
+      }
+    },
+    {
+      "name": "oriyan",
+      "id": "324175223",
+      "email": "TAMSUT2777@GMAIL.COM",
+      "password": "1234zXCV",
+      "confirmPassword": "",
+      "cart": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 3
+      }
+    },
+    {
+      "name": "tammy",
+      "id": "212224687",
+      "email": "tammyfur212@gmail.com",
+      "password": "tammY123",
+      "confirmPassword": "tammY123",
+      "cart": {}
+    },
+    {
+      "name": "Dassi E",
+      "id": "324069426",
+      "email": "den83062@gmail.com",
+      "password": "1234Qwer",
+      "confirmPassword": "1234Qwer",
+      "cart": {
+        "3": 2,
+        "4": 1
+      }
+    },
+    {
+      "name": "Chava Neiman",
+      "id": "000000000",
+      "email": "chavaneiman1@gmail.com",
+      "password": "1234Asdf",
+      "confirmPassword": "",
+      "cart": {
+        "2": 2,
+        "3": 4,
+        "4": 1,
+        "16": 1
+      },
+      "PaymentShipping": {
+        "name": "chava ",
+        "shippingAddress": "wdsf",
+        "city": "jerusalem",
+        "country": "Armenia",
+        "phoneNumber": "12334566",
+        "cardNumber": "4111111111111111",
+        "expirationDate": "12/2023",
+        "securityNumber": "1234",
+        "zipCode": "947933"
+      },
+      "orders": [
+        [
+          {
+            "id": 1,
+            "name": "Baby boy",
+            "image": "boy.jpg",
+            "price": "23.00",
+            "category": "Babies",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Baby boy and girl",
+            "image": "boyGirl.jpg",
+            "price": "24.00",
+            "category": "Babies",
+            "quantity": 3
+          },
+          {
+            "id": 3,
+            "name": "Bumble bee",
+            "image": "bumbleBee.jpg",
+            "price": "24.00",
+            "category": "Others",
+            "quantity": 1
+          },
+          {
+            "shipping": 0
+          },
+          {
+            "total": 139.82
+          },
+          {
+            "date": "Sun Apr 18"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "name": "Baby boy",
+            "image": "boy.jpg",
+            "price": "23.00",
+            "category": "Babies",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Baby boy and girl",
+            "image": "boyGirl.jpg",
+            "price": "24.00",
+            "category": "Babies",
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "name": "Bumble bee",
+            "image": "bumbleBee.jpg",
+            "price": "24.00",
+            "category": "Others",
+            "quantity": 2
+          },
+          {
+            "id": 7,
+            "name": "Thing 1 and Thing 2",
+            "image": "thing1_thing2.jpg",
+            "price": "20.00",
+            "category": "Babies",
+            "quantity": 1
+          },
+          {
+            "shipping": 0
+          },
+          {
+            "total": 135.13
+          },
+          {
+            "date": "Sun Apr 18"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "name": "Baby boy",
+            "image": "boy.jpg",
+            "price": "23.00",
+            "category": "Babies",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Baby boy and girl",
+            "image": "boyGirl.jpg",
+            "price": "24.00",
+            "category": "Babies",
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "name": "Bumble bee",
+            "image": "bumbleBee.jpg",
+            "price": "24.00",
+            "category": "Others",
+            "quantity": 2
+          },
+          {
+            "shipping": 0
+          },
+          {
+            "total": 111.63
+          },
+          {
+            "date": "Sun Apr 18"
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Hadassah Neiman",
+      "id": "345527410",
+      "email": "hadassahneiman@gmail.com",
+      "password": "1234Qwer",
+      "confirmPassword": "1234Qwer",
+      "cart": {
+        "2": 1,
+        "3": 1
+      }
+    },
+    {
+      "name": "rochela",
+      "id": "770191203",
+      "email": "rochelagarfunkel@gmail.com",
+      "password": "Rg4113841",
+      "confirmPassword": "Rg4113841",
+      "cart": {
+        "11": 1
+      }
+    }
+  ],
+  "Faq": [
+    {
+      "id": 1,
+      "title": "Who makes these gorgeous cookies?",
+      "content": "Chava Neiman and the cookie monster team."
+    },
+    {
+      "id": 2,
+      "title": "How long do the cookies stay fresh?",
+      "content": "Obviously they taste best the first few days, but they also freeze amazing- you wont be able to tell their not fresh!!"
+    },
+    {
+      "id": 3,
+      "title": "Do you have more options of cookies?",
+      "content": "Yes!! these cookies are just ideas for you to look through, but are highly recommended buying them too. If you have a different design in mind please contact us at cookiemonsterdecoratedcookies@gmail.com"
+    },
+    {
+      "id": 4,
+      "title": "What's the estimated time to make one cookie?",
+      "content": "That's a hard question, depends how much experience you have, and how intricate the cookie design is. But overall, the average cookie would take about 20 minutes. "
+    },
+    {
+      "id": 5,
+      "title": "What is icing sugar? Is it the same as powdered sugar or confectioner’s sugar?",
+      "content": "Yes, they’re different names for the same thing."
+    },
+    {
+      "id": 6,
+      "title": "Where can i get the ingrediants to make these cookies?",
+      "content": "In your local grocery store!"
+    },
+    {
+      "id": 7,
+      "title": "Do you have any tips on making black icing? I keep getting a purple tint, or a grey.",
+      "content": "Here are some tips on making black icing 🙂 http://sweetambs.com/tutorial/tips-on-how-to-make-black-royal-icing/"
+    },
+    {
+      "id": 8,
+      "title": "when did the company open? How many years ago?",
+      "content": "We're around for about 3,4 years."
+    }
+  ]
+}

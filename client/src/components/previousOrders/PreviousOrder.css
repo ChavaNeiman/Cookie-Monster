@@ -1,0 +1,18 @@
+.prevOrders{
+    width:100%;
+    padding: 2%;
+    margin-top: 2%;
+    border:0px;
+    background-color: #43c1f37c;
+    color: #8f9aa1;
+    font-weight: bold;
+}
+.orderNumber{
+    float:left;
+}
+.orderAmount{
+    float: right;
+}
+.actualOrder{
+    margin-top: 1%;
+}

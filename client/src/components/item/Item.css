@@ -1,0 +1,42 @@
+.storeContainer .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: 0% 5% 9%;
+  text-align: center;
+}
+
+.price {
+  color: #ae4343;
+}
+
+.MSRP {
+  color: #707070;
+}
+
+.img {
+  width: 100%;
+  height: 12em;
+  filter: brightness(100%);
+}
+
+.viewer{
+  width: 100%;
+  height: 12em;
+  position: relative;
+}
+.viewer:hover .view{
+  visibility: visible;
+}
+.viewer:hover{
+  filter: brightness(60%);
+}
+
+.addToCart:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.addToCart:hover{
+  background-color: #707070;
+  border:1px solid #707070;
+}
