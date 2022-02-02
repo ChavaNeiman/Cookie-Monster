@@ -103,3 +103,5 @@ After the user correctly pays a confirmation email is sent to its inbox.
   <img src="client\public\favicon.ico" width="150" title="hover text">
 </p>
 
+##Here's a sneak peek at the website:
+![video](./Cookie Monster video (1).gif)
