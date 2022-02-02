@@ -104,4 +104,4 @@ After the user correctly pays a confirmation email is sent to its inbox.
 </p>
 
 ##Here's a sneak peek at the website:
-![video]("https://github.com/ChavaNeiman/Cookie-Monster-website/blob/master/Cookie%20Monster%20video%20(1).gif")
+![video]("./Cookie Monster video (1).gif")
